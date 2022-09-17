@@ -21,7 +21,7 @@
 
 #### รายละเอียดการติดต่อ
 
-[![Email Badge](https://img.shields.io/badge/-Email-ff001e?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:freelingdeveloper@gmail.com) [![Ko-fi Badge](https://img.shields.io/badge/-Support-00aeff?style=for-the-badge&labelColor=000000&logo=kofi&logoColor=ffffff)](#) [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faumheybro&countColor=%232ccce4)](https:github.com/aumheybro)
+[![Email Badge](https://img.shields.io/badge/-Email-ff001e?style=for-the-badge&labelColor=black&logo=gmail&logoColor=ffffff)](mailto:freelingdeveloper@gmail.com) [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faumheybro&countColor=%232ccce4)](#)
 
 <br>
 
