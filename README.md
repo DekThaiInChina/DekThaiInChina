@@ -27,4 +27,4 @@
 
 #### สถิติของฉัน
 
-![DekThaiInChina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexthaiinchina&count_private=true&theme=tokyonight&hide=contribs,prs)
+![DekThaiInChina's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekthaiinchina&count_private=true&theme=tokyonight&hide=contribs,prs)
